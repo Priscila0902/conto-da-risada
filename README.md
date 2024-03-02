@@ -1,1 +1,2 @@
-# conto-da-risada
+# Pizzaria Conto da Risada
+Trabalho CoderHouse
